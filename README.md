@@ -14,6 +14,6 @@ Realizei as seguintes alterações com o intuito de aprimorar:
 
 ## Fora isso, também otimizei e eliminei redundâncias 📚
 
-Foi um ótimo projeto e tive as chances de inserir novos dados e usar mais tipos dados, além de praticar habilidades de organização, raciocínio e entender o funcionamento de um SGBD. 😎👌
+Foi um ótimo projeto e tive as chances de inserir novos dados e usar mais tipos de dados, além de praticar habilidades de organização, raciocínio e entender o funcionamento de um SGBD. 😎👌
 
 # Obrigado por ler. ❤
